@@ -1,0 +1,6 @@
+{
+  "name": "SDIT Alam Azizah - Sistem Kesiswaan & SDM",
+  "description": "Sistem Informasi Terpadu Kesiswaan, Jurnal Mutaba'ah Ibadah & Alam, serta Manajemen SDM Guru SDIT Alam Azizah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
